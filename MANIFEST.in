@@ -1,1 +1,5 @@
 
+
+**File 3: `MANIFEST.in`**
+```ini
+include README.md
